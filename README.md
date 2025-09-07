@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @naqeeb404 (Naqeeb)
-- 👀 I’m interested in website development & Data Science
-- - - My tech stack : HTML/CSS. JS python, node, react, express
-- 🌱 I’m currently learning Data Science
-- 📫 How to reach me: reach.naqeeb@gmail.com
+🚀 Software Engineer passionate about building modern web applications and intelligent solutions. Skilled in the MERN stack (MongoDB, Express.js, React, Node.js) with experience in creating scalable, user-focused products. Currently diving deep into Artificial Intelligence & Machine Learning, exploring how data and algorithms can shape the future of technology.
 
-<!---
-naqeeb404/naqeeb404 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 I enjoy transforming ideas into clean, functional code and constantly improving my skills in full-stack development.
+🤖 On a journey to bridge the gap between web development and AI-driven innovation.
+🌱 Sharing my learnings, projects, and thoughts along the way.
